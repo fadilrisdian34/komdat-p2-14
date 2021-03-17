@@ -108,11 +108,17 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 - Fungsi-fungsi utama
 
-  Play. 
+  Play
   
   ![alt text](https://github.com/fadilrisdian34/komdat-p2-14/blob/main/play.gif)
 
+  Spectate
+    
+  ![alt text](https://github.com/fadilrisdian34/komdat-p2-14/blob/main/spectate.png)
   
+  Settings
+  
+  ![alt text](https://github.com/fadilrisdian34/komdat-p2-14/blob/main/2.png)
   
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 
