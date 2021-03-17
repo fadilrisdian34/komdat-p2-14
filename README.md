@@ -66,7 +66,15 @@ Gim ini hanya memiliki 2 aturan sederhana untuk diikuti:
     ```
     $ npm -v
     ```
+4.  **Install Git**
+    ```
+    $ sudo apt install git
+    ```
+    ```
+    $ git --version
+    ```
 5.  **Installasi Agar.io**
+    Mendownload aplikasi agar io
     ```
     $ sudo git clone https://github.com/huytd/agar.io-clone.git
     ```
