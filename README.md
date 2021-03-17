@@ -5,7 +5,13 @@
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:
 
-
+## Nama Anggota Kelompok 3
+| Nama               | NIM         | 
+| :---               |    :----:   |    
+| Fadil Risdian A    | G64180111   | 
+| Ferdi B M Erari    | G64180112   | 
+| Rakheda Andria P   | G64180105   | 
+| M Farhan Dirhami   | G64170099   | 
 
 ## Sekilas Tentang
 [`^ kembali ke atas ^`](#)
