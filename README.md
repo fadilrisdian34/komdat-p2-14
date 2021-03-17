@@ -90,7 +90,7 @@ Gim ini hanya memiliki 2 aturan sederhana untuk diikuti:
     
   Setelah menekan tombol play, maka kita akan langsung menuju ke pertandingan arena. 
   
-  ## Cara Bermain
+  # Cara Bermain
   -Gerakkan mouse Anda di sekitar layar untuk memindahkan sel Anda
   -Makan makanan dan pemain lain untuk mengembangkan karakter Anda
   -Massa pemain adalah jumlah partikel makanan yang dimakan.
