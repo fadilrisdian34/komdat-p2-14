@@ -79,34 +79,34 @@ Gim ini hanya memiliki 2 aturan sederhana untuk diikuti:
 
 ## Cara Pemakaian
 
-- Tampilan aplikasi web <br>
+Tampilan aplikasi web <br>
 ![alt text](https://github.com/fadilrisdian34/komdat-p2-14/blob/main/1.png)
 
-- Fungsi-fungsi utama
+##Fungsi-fungsi utama
 
-  Play
+###Play
   
   ![alt text](https://github.com/fadilrisdian34/komdat-p2-14/blob/main/play.gif)
     
   Setelah menekan tombol play, maka kita akan langsung menuju ke pertandingan arena. 
   
-  # Cara Bermain
+  #### Cara Bermain
   -Gerakkan mouse Anda di sekitar layar untuk memindahkan sel Anda
   -Makan makanan dan pemain lain untuk mengembangkan karakter Anda
   -Massa pemain adalah jumlah partikel makanan yang dimakan.
   -Objective: Try to get as big as possible and eat other players
   
-  ## Peraturan Game
+  #### Peraturan Game
   -Setiap pemain bergabung dalam permainan, 3 partikel makanan akan muncul.
   -Setiap partikel makanan dimakan oleh pemain, 1 partikel makanan baru akan muncul kembali
   -Semakin banyak makanan yang Anda makan, semakin lambat Anda bergerak untuk membuat game lebih adil untuk semua.
   
   
-  Spectate
+  ###Spectate
     
   ![alt text](https://github.com/fadilrisdian34/komdat-p2-14/blob/main/spectate.png)
   
-  Settings
+  ###Settings
   
   ![alt text](https://github.com/fadilrisdian34/komdat-p2-14/blob/main/2.png)
   
@@ -116,14 +116,13 @@ Gim ini hanya memiliki 2 aturan sederhana untuk diikuti:
 ## Pembahasan
 
 kelebihan
-- Mudah dimainkan bagi pemula
-- Pengaturan permainan mudah
--
+* Mudah dimainkan bagi pemula
+* Pengaturan permainan mudah
 
 kekurangan
-- Performa game sedikit lambat
-- Fitur sangat sedikit
-- 
+* Performa game sedikit lambat
+* Fitur sangat sedikit
+
 ## Perbandingan 
 ![alt text](https://github.com/fadilrisdian34/komdat-p2-14/blob/main/vs.jpg)
 
