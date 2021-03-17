@@ -102,17 +102,20 @@ Gim ini hanya memiliki 2 aturan sederhana untuk diikuti:
 ## Pembahasan
 
 kelebihan
--
--
+- Mudah dimainkan bagi pemula
+- Pengaturan permainan mudah
 -
 
 kekurangan
--
--
--
-
+- Performa game sedikit lambat
+- Fitur sangat sedikit
+- 
 ## Perbandingan 
 ![alt text](https://github.com/fadilrisdian34/komdat-p2-14/blob/main/vs.jpg)
+
+### Agar.io vs Slither.io
+
+Secara tamplan, slither.io lebih baik dibandingkan dengan agar.io. Mulai dari pergerakan ular, partikel yang berchaya, dan beberapa objek lainnya yang seakan akan terlihat 3 dimensi. Namun hal ini juga menjadi kelebihan bagi agar.io karena waktu akses yang dibuthkan lebih cepat karena desain yang lebih simpel.
 
 
 ## Referensi
@@ -121,4 +124,6 @@ Cantumkan tiap sumber informasi yang anda pakai.
 https://www.crazygames.com/game/agario
 https://en.wikipedia.org/wiki/Agar.io
 
+https://www.pocketgamer.com/articles/070011/agar-io-vs-slither-io-which-is-the-best-game/
+https://www.gameskinny.com/9d4c1/5-reasons-slitherio-is-going-to-be-better-than-and-outlast-agario
 https://www.youtube.com/watch?v=HOCuAz1sNn4
