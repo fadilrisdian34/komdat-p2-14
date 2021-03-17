@@ -3,7 +3,7 @@
 ![alt text](https://github.com/fadilrisdian34/komdat-p2-14/blob/main/judul.png)
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
-:---:|:---:|:---:|:---:|:---:|:---:|
+:---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 
 
