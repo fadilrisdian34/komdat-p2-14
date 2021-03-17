@@ -32,6 +32,7 @@ Gim ini hanya memiliki 2 aturan sederhana untuk diikuti:
 #### Prasyarat, apa saja yang harus diinstal sebelumnya.
 * Window, Linux, dan Windows
 * Ubuntu
+* Git
 * Node.js dan NPM
 * Socket.io
 * express
