@@ -10,7 +10,7 @@
 ## Sekilas Tentang
 [`^ kembali ke atas ^`](#)
 
-Agar.io adalah permainan aksi MMO ynag diciptakan developer brazil yang bernama Matehus Valarades. Pemain mengontrol satu atau lebih sel melingkar di peta yang mewakili cawan Petri. Tujuannya adalah untuk mendapatkan massa sebanyak mungkin dengan memakan agar-agar dan sel yang lebih kecil dari sel pemain sambil menghindari yang lebih besar yang dapat memakan sel pemain. Setiap pemain memulai dengan satu sel, tetapi pemain dapat membagi sel menjadi dua setelah mencapai massa yang cukup, memungkinkan mereka untuk mengontrol banyak sel. Namanya berasal dari zat agar, yang digunakan untuk membiakkan bakteri. 
+Agar.io adalah permainan aksi MMO yang diciptakan developer brazil yang bernama Matehus Valarades. Pemain mengontrol satu atau lebih sel melingkar di peta yang mewakili cawan Petri. Tujuannya adalah untuk mendapatkan massa sebanyak mungkin dengan memakan agar-agar dan sel yang lebih kecil dari sel pemain sambil menghindari yang lebih besar yang dapat memakan sel pemain. Setiap pemain memulai dengan satu sel, tetapi pemain dapat membagi sel menjadi dua setelah mencapai massa yang cukup, memungkinkan mereka untuk mengontrol banyak sel. Namanya berasal dari zat agar, yang digunakan untuk membiakkan bakteri. 
 
 Game ini dirilis pertama di website pada 28 April 2015 dan  versi mobile Agar.io untuk iOS dan Android dirilis pada 24 Juli 2015 oleh Miniclip.
 Versi Steam diumumkan pada 3 Mei 2015, tetapi tidak pernah dirilis
