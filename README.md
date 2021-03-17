@@ -94,7 +94,7 @@ Setelah menekan tombol play, maka kita akan langsung menuju ke pertandingan aren
 - Gerakkan mouse Anda di sekitar layar untuk memindahkan sel Anda
 - Makan makanan dan pemain lain untuk mengembangkan karakter Anda
 - Massa pemain adalah jumlah partikel makanan yang dimakan.
-- Objective: Try to get as big as possible and eat other players
+- Tujuan: Mencoba menjadi sebesar mungkin dan memakan pemain lain
   
 #### Peraturan Game
 - Setiap pemain bergabung dalam permainan, 3 partikel makanan akan muncul.
@@ -105,11 +105,18 @@ Setelah menekan tombol play, maka kita akan langsung menuju ke pertandingan aren
     
   ![alt text](https://github.com/fadilrisdian34/komdat-p2-14/blob/main/spectate.png)
   
-  ###Settings
+Tombol spectate berguna untuk masuk ke dalam arena hanya sebagai pengamat pertandingan saja 
+  
+### Settings
   
   ![alt text](https://github.com/fadilrisdian34/komdat-p2-14/blob/main/2.png)
   
-  
+ Terdapat 5 pengaturan berupa centang ketika menekan tombol setting.
+ * Show border : Menunjukkan garis-garis di arena pertandingan
+ * Show mass   : Menunjukan mass dari player
+ * Continue moving when moving is off-screen : Player akan bergerak ketika mouse di luar game agar.io
+ * Rounded food Mode : Mode makan berbentuk bulat
+ * Toggle Dark : Arena menjadi berwarna hitam
 
 
 ## Pembahasan
@@ -127,7 +134,7 @@ kekurangan
 
 ### Agar.io vs Slither.io
 
-Secara tamplan, slither.io lebih baik dibandingkan dengan agar.io. Mulai dari pergerakan ular, partikel yang berchaya, dan beberapa objek lainnya yang seakan akan terlihat 3 dimensi. Namun hal ini juga menjadi kelebihan bagi agar.io karena waktu akses yang dibuthkan lebih cepat karena desain yang lebih simpel.
+Secara tampilan, slither.io lebih baik dibandingkan dengan agar.io. Mulai dari pergerakan ular, partikel yang berchaya, dan beberapa objek lainnya yang seakan akan terlihat 3 dimensi. Namun hal ini juga menjadi kelebihan bagi agar.io karena waktu akses yang dibutuhkan lebih cepat karena desain yang lebih simpel.
 
 
 ## Referensi
