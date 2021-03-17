@@ -24,11 +24,17 @@ Gim ini hanya memiliki 2 aturan sederhana untuk diikuti:
 [`^ kembali ke atas ^`](#)
 
 #### Prasyarat, apa saja yang harus diinstal sebelumnya.
--Window, Linux, dan Windows
--Ubuntu
--Node.js dan NPM
--Socket.io
--express
+* Window, Linux, dan Windows
+* Ubuntu
+* Node.js dan NPM
+* Socket.io
+* express
+
+#### Software yang digunakan penulis
+* Multipass 
+  Digunakan sebagai SSH 
+   
+  ![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmultipass.run%2F&psig=AOvVaw1CB-5n85HeK0a2RhF4m8V1&ust=1616055557575000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDm4Z7ytu8CFQAAAAAdAAAAABAD) 
 
 #### Langkah instalasi dalam CLI.
 1. **Login kedalam server menggunakan SSH.** Pada ini kali penulis menggunakan aplikasi multipass. 
