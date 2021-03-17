@@ -41,7 +41,9 @@ Gim ini hanya memiliki 2 aturan sederhana untuk diikuti:
   
 * Node.js versi 10.19.0
 * NPM versi 6.14.4
-* 
+* express 4.17.1
+* socket.io 4.00
+
 
 #### Langkah instalasi dalam CLI.
 1. **Login kedalam server menggunakan SSH.** Pada ini kali penulis menggunakan aplikasi multipass. 
@@ -52,7 +54,7 @@ Gim ini hanya memiliki 2 aturan sederhana untuk diikuti:
     ```
     $ sudo apt-get install -y nodejs
     ```
-    #cek versi terbaru
+    #cek versi 
     ```
     $ node -v
     ```
@@ -60,7 +62,7 @@ Gim ini hanya memiliki 2 aturan sederhana untuk diikuti:
     ```
     $ sudo apt install npm 
     ```
-    #cek versi terbaru
+    #cek versi 
     ```
     $ npm -v
     ```
