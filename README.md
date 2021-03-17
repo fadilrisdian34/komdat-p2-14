@@ -101,10 +101,18 @@ Gim ini hanya memiliki 2 aturan sederhana untuk diikuti:
 
 ## Pembahasan
 
-- Pendapat anda tentang aplikasi web ini
-    - kelebihan
-    - kekurangan
-- Bandingkan dengan aplikasi web lain yang sejenis
+kelebihan
+-
+-
+-
+
+kekurangan
+-
+-
+-
+
+## Perbandingan 
+![alt text](https://github.com/fadilrisdian34/komdat-p2-14/blob/main/vs.jpg)
 
 
 ## Referensi
@@ -112,3 +120,5 @@ Gim ini hanya memiliki 2 aturan sederhana untuk diikuti:
 Cantumkan tiap sumber informasi yang anda pakai.
 https://www.crazygames.com/game/agario
 https://en.wikipedia.org/wiki/Agar.io
+
+https://www.youtube.com/watch?v=HOCuAz1sNn4
