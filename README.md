@@ -91,17 +91,16 @@ Tampilan aplikasi web <br>
 Setelah menekan tombol play, maka kita akan langsung menuju ke pertandingan arena. 
   
 #### Cara Bermain
-  -Gerakkan mouse Anda di sekitar layar untuk memindahkan sel Anda
-  -Makan makanan dan pemain lain untuk mengembangkan karakter Anda
-  -Massa pemain adalah jumlah partikel makanan yang dimakan.
-  -Objective: Try to get as big as possible and eat other players
+-Gerakkan mouse Anda di sekitar layar untuk memindahkan sel Anda
+-Makan makanan dan pemain lain untuk mengembangkan karakter Anda
+-Massa pemain adalah jumlah partikel makanan yang dimakan.
+-Objective: Try to get as big as possible and eat other players
   
 #### Peraturan Game
-  -Setiap pemain bergabung dalam permainan, 3 partikel makanan akan muncul.
-  -Setiap partikel makanan dimakan oleh pemain, 1 partikel makanan baru akan muncul kembali
-  -Semakin banyak makanan yang Anda makan, semakin lambat Anda bergerak untuk membuat game lebih adil untuk semua.
-  
-  
+-Setiap pemain bergabung dalam permainan, 3 partikel makanan akan muncul.
+-Setiap partikel makanan dimakan oleh pemain, 1 partikel makanan baru akan muncul kembali
+-Semakin banyak makanan yang Anda makan, semakin lambat Anda bergerak untuk membuat game lebih adil untuk semua.
+    
 ### Spectate
     
   ![alt text](https://github.com/fadilrisdian34/komdat-p2-14/blob/main/spectate.png)
