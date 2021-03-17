@@ -74,7 +74,7 @@ Gim ini hanya memiliki 2 aturan sederhana untuk diikuti:
     ```
     $ cd agar.io-clone
     ```
-    Install gulp globally (menggunakan roor privileges)
+    Install gulp globally (menggunakan root privileges)
     ```
     $ sudo npm install -g gulp
     ```
