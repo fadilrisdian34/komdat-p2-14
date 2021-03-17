@@ -1,5 +1,5 @@
-# Komdat-P2-14
 
+![alt text](https://github.com/fadilrisdian34/komdat-p2-14/blob/main/judul.png)
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
