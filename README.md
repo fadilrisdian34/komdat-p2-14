@@ -103,8 +103,9 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 ## Cara Pemakaian
 
-- Tampilan aplikasi web
+- Tampilan aplikasi web <br>
 ![alt text](https://github.com/fadilrisdian34/komdat-p2-14/blob/main/1.png)
+
 - Fungsi-fungsi utama
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 
