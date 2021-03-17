@@ -107,6 +107,13 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 ![alt text](https://github.com/fadilrisdian34/komdat-p2-14/blob/main/1.png)
 
 - Fungsi-fungsi utama
+
+  Play. 
+  
+  ![alt text](https://github.com/fadilrisdian34/komdat-p2-14/blob/main/play.gif)
+
+  
+  
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 
 
