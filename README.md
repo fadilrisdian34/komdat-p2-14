@@ -34,13 +34,9 @@ Gim ini hanya memiliki 2 aturan sederhana untuk diikuti:
 * Multipass 
   Digunakan sebagai SSH 
    
-  ![alt text](https://assets.ubuntu.com/v1/0698ab2d-muiltipass-promo-header.png) 
-
 * Virtual box 6.1.18
   Digunakan sebagai virtual machine 
   
-  ![alt text](https://www.virtualbox.org/graphics/vbox_logo2_gradient.png) 
-
 * Ubuntu Desktop 20.04 LTS Desktop
   
 * Node.js versi 10.19.0
