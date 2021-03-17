@@ -88,6 +88,14 @@ Gim ini hanya memiliki 2 aturan sederhana untuk diikuti:
     ```
     $ cd agar.io-clone
     ```
+    Install socket.io
+    ```
+    $ npm install socket.io --save
+    ```
+    Install express 
+    ```
+    npm install express.io --save
+    ```
     Install gulp globally (menggunakan root privileges)
     ```
     $ sudo npm install -g gulp
