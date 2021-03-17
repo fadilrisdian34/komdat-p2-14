@@ -88,7 +88,7 @@ Gim ini hanya memiliki 2 aturan sederhana untuk diikuti:
     ```
     Membuka aplikasi di browser
     ```
-    https://localhost;3000
+    https://localhost:3000
     ```
     
 
