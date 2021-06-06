@@ -1,5 +1,7 @@
 # Aplikasi Web Agar.io
 
+![Screenshot VS](https://user-images.githubusercontent.com/61318031/120933062-a5d5cd80-c722-11eb-91e7-61f282158577.png)
+
 ![alt text](https://github.com/fadilrisdian34/komdat-p2-14/blob/main/judul.png)
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
